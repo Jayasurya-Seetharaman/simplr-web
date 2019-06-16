@@ -86,6 +86,21 @@
 				</div>
 			</div>
 		</div>
+
+		<div class="pricingHeader">
+			<div class="container1180 pagePad">
+				<div class="flexResponsive768 flexJustifyBetween">
+					<div class=""></div>
+					<div class="">
+						<div class="priceDD active">
+							<div class="priceDDHead">See Pricing</div>
+							<div class="priceDDCont"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+
 	</header>
 	
 	<div class="mobLeftAside">
