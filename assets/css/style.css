@@ -680,6 +680,18 @@ header .rSide { flex: 5; }
 .banner .bSocial a{display: inline-block; margin-right: 20px;}
 /*BANNER*/
 
+/*cFormSec*/
+.cFormSec{position: relative;}
+.cFormSec .cfTxt{font-size: 16px; font-weight: 400; line-height: 36px;color: #39434f;max-width: 450px;margin: 60px auto 60px;}
+.cFormSec .cfMailIcon{background: url('../images/icons/mail.png');width: 36px; height: 31px; background-repeat: no-repeat;}
+.cFormSec .cfMobIcon{background: url('../images/icons/telephone.png');width: 36px; height: 31px; background-repeat: no-repeat;}
+.cFormSec .cfDesc{font-size: 16px; font-weight: 400; line-height: 36px;color: #39434f;margin-left: 16px;}
+.cFormSec .cfsForm{box-shadow: 0 8px 24px rgba(0, 0, 0, 0.16); background-color: #ffffff;position: relative; top: -240px;}
+.cFormSec .cfsForm .cfsHead{background-color: #f6f4f4;padding: 40px;}
+.cFormSec .cfsForm .cfsHead .cfshIcon{background: url('../images/icons/hand.svg');box-shadow: 0 8px 24px rgba(0, 0, 0, 0.16); border-radius: 8px; background-color: #ffffff;    width: 75px; height: 75px; background-repeat: no-repeat; background-position: center; margin-right: 10px;}
+.cFormSec .cfsForm .cfsHead .cfshDesc{font-size: 20px; font-weight: 700; line-height: 38px;color: #393838;}
+/*cFormSec*/
+
 
 /*BUTTON*/
 .whiteSBtn{padding: 12px 35px;font-size: 13px;line-height: 13px;text-transform: uppercase;font-weight: 600;color: #c31432;text-align: center;border-radius: unset;background-color:#FFF;display: inline-block;letter-spacing: normal;font-family: 'Rubik', sans-serif;cursor: pointer;position: relative; transition: all 0.4s cubic-bezier(0.42, 0, 0.58, 1);}
@@ -1313,7 +1325,7 @@ form .formBorder{border: 1px solid #e2e1f0;background-color: #ffffff;}
 .formBox .item.col1, .formBox .item.col2{margin-bottom: 45px;}
 .formBox .material .frmFld {font-size: 15px;padding: 7px 0 6px;color: #793f98;font-weight: 400; border: none;border-bottom: 1px solid #ebebeb;width: 100%; outline: none;border-radius: 0; position: relative;background-color: transparent;display: block; }
 .formBox .material .frmFld:focus{border-bottom: 1px solid #263275;}
-.formBox .material label {position: absolute; top: -5px; left: 0; font-size: 15px;font-weight: 600;line-height: 35px; color: #793f98;display: inline-block; -webkit-transform-origin: 0 -220%; transform-origin: 0 -220%; transition: -webkit-transform 300ms ease; transition: transform 300ms ease; transition: transform 300ms ease, -webkit-transform 300ms ease; pointer-events: none;-webkit-transition: .3s;transition: .3s; }
+.formBox .material label {position: absolute; top: -5px; left: 0; font-size: 15px;font-weight: 600;line-height: 35px;color: #1a1919;display: inline-block; -webkit-transform-origin: 0 -220%; transform-origin: 0 -220%; transition: -webkit-transform 300ms ease; transition: transform 300ms ease; transition: transform 300ms ease, -webkit-transform 300ms ease; pointer-events: none;-webkit-transition: .3s;transition: .3s;text-transform: uppercase;}
 .formBox .material label span{color: #f45656;font-weight: 400;}
 .formBox .noAnim label {-webkit-transform: scale(0.8); transform: scale(0.8);color: #868686;}
 .formBox .noAnim{padding-top: 10px;}

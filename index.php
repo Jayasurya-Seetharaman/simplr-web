@@ -32,30 +32,74 @@
 			</div>
 		</section>
 		
-		<section class="">
-			<div class="container1180 pagePad cFormSec">
+		<section class="padding6060 cFormSec">
+			<div class="container1180 pagePad">
 				<div class="flexResponsive768">
 					<div class="flex1">
 						<div class="cfTxt">
 							Giving your people every tool they needed to get the job done in the most accurate, most efficient way possible. Giving your people every tool they needed to get the job
 						</div>
 						<div class="flex flexJustifyBetween">
-							<div class="flex">
-								<div class="flex1">
-									<div class="cfMailIcon"></div>
-								</div>
-								<div class="flex2"></div>
+							<div class="flex flex1">
+								<div class="cfMailIcon"></div>
+								<div class="cfDesc">hello@simplr.net<br/> info@simplr.net</div>
 							</div>
-							<div class="flex">
-								<div class="flex1">
-									<div class="cfMobIcon"></div>
-								</div>
-								<div class="flex2"></div>
+							<div class="flex flex1">
+								<div class="cfMobIcon"></div>
+								<div class="cfDesc">+91 99988 77998<br/> 044-857 8547</div>
 							</div>
 						</div>
 					</div>
 					<div class="flex1">
-
+						<div class="cfsForm">
+							<div class="cfsHead">
+								<div class="flex">
+									<div class="flex1">
+										<div class="cfshIcon"></div>
+									</div>
+									<div class="cfshDesc flex4">Giving your people every tool they needed to get the job done in the most accurate, most efficient way possible.</div>
+								</div>
+							</div>
+							<div class="cfsBody">								
+								<form action="" class="padding4040 width450 autocenter">
+									<div class="formBox">
+										<div>
+											<div class="item">
+												<div class="material">
+													<hr>
+													<input type="text" name="username" class="frmFld mAnim">
+													<label>NAME <span>*</span></label>
+												</div>
+											</div>
+											<div class="item">
+												<div class="material">
+													<hr>
+													<input type="text" name="email" class="frmFld mAnim">
+													<label>EMAIL <span>*</span></label>
+												</div>
+											</div>
+											<div class="item">
+												<div class="material">
+													<hr>
+													<input type="text" name="phone" class="frmFld mAnim">
+													<label>PHONE NUMBER <span>*</span></label>
+												</div>
+											</div>
+											<div class="item noMarginBtm passView">
+												<div class="material">
+													<hr>
+													<textarea class="frmFld mAnim"></textarea>
+													<label>Message <span>*</span></label>
+												</div>
+											</div>
+										</div>
+										<div class="padding4000 textalignright">
+											<button type="submit" class="blueBtnMed signupSubmit"><span>SEND</span></button>
+										</div>
+									</div>
+								</form>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>

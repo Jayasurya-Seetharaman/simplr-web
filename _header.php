@@ -91,8 +91,8 @@
 	
 	<div class="pricingHeader">
 		<div class="container1180 pagePad">
-			<div class="flexResponsive768 flexJustifyBetween">
-				<div class="white width500">
+			<div class="flexResponsive768 flexAlignItemsCenter flexJustifyBetween">
+				<div class="white width500 pDesc">
 					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the 
 				</div>
 				<div class="">
