@@ -5,339 +5,62 @@
 	<div class="bodyContainer noTopPad">
 
 		<section class="banner">
-			<div class="dTableCell verticalMiddle">
+			<div class="">
 				<div class="container1180 pagePad positionRelative">
 					<div class="flexResponsive768">
 						<div class="flex2">
-							<h1 class=""><b>Simplr</b> Sales - </h1>
-							<h3 class="padding0040 width600">Distribution Management Solution</h3>
-							<div class="bTxt width500 padding0040">A business that manages customers needs to manage a huge network of distributors to communicate. With simplr’ s distribution management covers all your complex communications and increase your production. Know more about it and start using it.</div>
+							<h1 class="white padding0020"><b>Contact Us...</b> </h1>
+							<div class="white bTxt width500 padding0040">Giving your people every tool they needed to get the job done in the most accurate.</div>
 							<!-- <h3 class="white padding0040 bold">Total control over Inventory Management.</h3> -->
-							<div class="flexResponsive520">
+							<!-- <div class="flexResponsive520">
 								<a href="" class="redBtnS">Explore More</a>
 								<div class="flexCent5 padding2000"></div>
 								<a href="" class="violetBtnS">Take a Tour</a>
+							</div> -->
+							<div class="bSocial">
+								<a href="javascript:void(0)"><img src="assets/images/icons/fb.svg"/></a>
+								<a href="javascript:void(0)"><img src="assets/images/icons/linkedin.svg"/></a>
+								<a href="javascript:void(0)"><img src="assets/images/icons/twitter.svg"/></a>
 							</div>
 						</div>
 						<div class="flexCent2 padding2000"></div>
 						<div class="flex1 bannerImg">
-							<img src="assets/images/banners/banner.png"/>
+							<!-- <img src="assets/images/banners/banner.png"/> -->
 						</div>
-					</div>
-					<div class="bSocial">
-						<a href="javascript:void(0)"><img src="assets/images/fb.png"/></a>
-						<a href="javascript:void(0)"><img src="assets/images/linkedin.png"/></a>
-						<a href="javascript:void(0)"><img src="assets/images/twitter.png"/></a>
-						<a href="javascript:void(0)"><img src="assets/images/insta.png"/></a>
 					</div>
 				</div>
 			</div>
 		</section>
 		
-		<section class="padding6060 mobile768">
-			<div class="container1180 pagePad">
-				<h2 class="textaligncenter padding0060 frmBtm">Feat-Features of Simplr Sales</h2>
-				<div class="ffTab">
-					<div class="ffMHead container900 flexResponsive768 padding0040">
-						<div class="flex2 textaligncenter">
-							<a href="javascript:void(0)" class="ffMBtn active" data-subhead="salesOp">Sales Operation</a>
+		<section class="">
+			<div class="container1180 pagePad cFormSec">
+				<div class="flexResponsive768">
+					<div class="flex1">
+						<div class="cfTxt">
+							Giving your people every tool they needed to get the job done in the most accurate, most efficient way possible. Giving your people every tool they needed to get the job
 						</div>
-						<div class="flex2 textaligncenter">
-							<a href="javascript:void(0)" class="ffMBtn violet" data-subhead="salesMt">Sales Management</a>
-						</div>
-					</div>
-					<div class="ffSHead container1180">
-						<div class="salesOp" style="display:block;">
-							<div class="flexResponsive768 ffSHeadSlide" id="ffSHeadSlide">
-								<div class="flex2 textaligncenter">
-									<a href="javascript:void(0)" class="ffSBtn active" data-content="preparation">Preparation and Customer Service</a>
-								</div>
-								<div class="flex1 textaligncenter">
-									<a href="javascript:void(0)" class="ffSBtn" data-content="order">Order Management</a>
-								</div>
-								<div class="flex2 textaligncenter">
-									<a href="javascript:void(0)" class="ffSBtn" data-content="payment">Payment and Vending Management</a>
-								</div>
-							</div>
-						</div>
-						<div class="salesMt">
-							<div class="ffSHeadSlide">
-								<div class="textaligncenter marginbtm20">
-									<a href="javascript:void(0)" class="ffSBtn" data-content="performance">Performance Management</a>
-								</div>
-								<div class="textaligncenter">
-									<a href="javascript:void(0)" class="ffSBtn" data-content="analytics">Analytics</a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="ffCont padding4000">
-						<div class="preparation" style="display:block;">
-							<div class="ffcGrid">
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Preparation</div>
-									<div class="ffcgDesc">Well organized everyday distribution plans and visits, regular internal communication and automated loading of goods. Practice the systematic approach with our product.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Market intelligence</div>
-									<div class="ffcgDesc">Provides you extraordinary surveys, store walks, competitions price checks and other market intelligence activities.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Asset Tracking</div>
-									<div class="ffcgDesc">Tracking becomes complex free like a clear tracking on your status maintenance, cleaning schedule of assets like refrigerators and freezers, etc.,</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-							</div>
-						</div>
-						<div class="order">
-							<div class="ffcGrid">
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Assisted Sales</div>
-									<div class="ffcgDesc">With distributed management efficient assistant for your sales like auto prompts for potential upselling and cross-selling. Keep tracking of orders and do preload easily and also special item’s promotions easily.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Product Promotion</div>
-									<div class="ffcgDesc">Clear knowledge about what you have like a comprehensive digital catalog of all offerings and products with all details like rates, photos, videos, descriptions, and offers, etc.,</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Invoicing</div>
-									<div class="ffcgDesc">Reach your customer’s heart with a proper invoice. Digital form with preset configurable fields which will be filled at the time of sales.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<!-- <div class="ffcgItem">
-									<div class="ffcgTitle">Exchange & Return Management</div>
-									<div class="ffcgDesc">Feedback through surveys and other market Intelligence activities Store Walk, Competation price Check,..</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div> -->
-							</div>
-						</div>
-						<div class="payment">
-							<div class="ffcGrid">
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Credit Control</div>
-									<div class="ffcgDesc">Either it is an identification of previous defaulters or supervisor’s approval of on credits, you can track and hold the communication with our product.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Payment Collection</div>
-									<div class="ffcgDesc">Cover all your payment activities like invoices, receipts, and payment information, etc., manage a better payment collection system with simpler steps from simplr.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Replenish Machines</div>
-									<div class="ffcgDesc">Know your activities and progress your business, with vending machine management, create a report of replenshing machines, record meter readings and cash collection.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<!-- <div class="ffcgItem">
-									<div class="ffcgTitle">Record Meter Reading Collect Cash</div>
-									<div class="ffcgDesc">Feedback through surveys and other market Intelligence activities Store Walk, Competation price Check,..</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div> -->
-							</div>
-						</div>
-						<div class="performance">
-							<div class="ffcGrid">
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Tracking & Planning</div>
-									<div class="ffcgDesc">Report that helps you keep tracking essentials like sales person’s visits, time spent and target vs actual sales. Near real-time data and analytics, build up your strategies on achieving each target.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Potential for Increased Profit & Revenue</div>
-									<div class="ffcgDesc">Benefits of having reduced returns, optimized inventory management, effective and clear cut promotions, and credit management.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Territory Management</div>
-									<div class="ffcgDesc">Divide and manage to have the best control over optimal sales routes, segmenting customers into sub territories and also keeping track of planned and actual routes.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Workflow and Task Management</div>
-									<div class="ffcgDesc">Clear-up the backlogs by monitoring the sequence of functions that has to be completed and to manage configurable workflow components</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-							</div>
-						</div>
-						<div class="analytics">
-							<div class="ffcGrid">
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Dashboard</div>
-									<div class="ffcgDesc">Bird’s eye view of every actions and performance of territories and salespersons.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Product and Promotion Planning</div>
-									<div class="ffcgDesc">Provide complex offers in terms of discounts and FOC and also on special items to be promoted.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-							</div>
-						</div>				
-					</div>
-				</div>
-			</div>
-		</section>
-
-		<section class="padding6060 desktop768">
-			<div class="container1180 pagePad">
-				<h2 class="textaligncenter padding0060 frmBtm">Feat-Features of Simplr Sales</h2>
-				<div class="ffTab">
-					<div class="ffMHead container900 flexResponsive768 padding0040">
-						<div class="flex2 textaligncenter">
-							<a href="javascript:void(0)" class="ffMBtn active" data-subhead="salesOp">Sales Operation</a>
-						</div>
-						<div class="flex1"></div>
-						<div class="flex2 textaligncenter">
-							<a href="javascript:void(0)" class="ffMBtn violet" data-subhead="salesMt">Sales Management</a>
-						</div>
-					</div>
-					<div class="ffSHead container1180">
-						<div class="salesOp" style="display:block;">
-							<div class="flexResponsive768 ffSHeadSlide">
-								<div class="flex2">
-									<a href="javascript:void(0)" class="ffSBtn active" data-content="preparation">Preparation and Customer Service</a>
-								</div>
-								<div class="flexCent2"></div>
+						<div class="flex flexJustifyBetween">
+							<div class="flex">
 								<div class="flex1">
-									<a href="javascript:void(0)" class="ffSBtn" data-content="order">Order Management</a>
+									<div class="cfMailIcon"></div>
 								</div>
-								<div class="flexCent2"></div>
-								<div class="flex2">
-									<a href="javascript:void(0)" class="ffSBtn" data-content="payment">Payment and Vending Management</a>
-								</div>
+								<div class="flex2"></div>
 							</div>
-						</div>
-						<div class="salesMt">
-							<div class="flexResponsive768">
-								<div class="flex2">
-									<a href="javascript:void(0)" class="ffSBtn" data-content="performance">Performance Management</a>
+							<div class="flex">
+								<div class="flex1">
+									<div class="cfMobIcon"></div>
 								</div>
-								<div class="flexCent2"></div>
-								<div class="flex2">
-									<a href="javascript:void(0)" class="ffSBtn" data-content="analytics">Analytics</a>
-								</div>
+								<div class="flex2"></div>
 							</div>
 						</div>
 					</div>
-					<div class="ffCont padding4000">
-						<div class="preparation" style="display:block;">
-							<div class="ffcGrid">
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Preparation</div>
-									<div class="ffcgDesc">Well organized everyday distribution plans and visits, regular internal communication and automated loading of goods. Practice the systematic approach with our product.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Market intelligence</div>
-									<div class="ffcgDesc">Provides you extraordinary surveys, store walks, competitions price checks and other market intelligence activities.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Asset tracking</div>
-									<div class="ffcgDesc">Tracking becomes complex free like a clear tracking on your status maintenance, cleaning schedule of assets like refrigerators and freezers, etc.,</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-							</div>
-						</div>
-						<div class="order">
-							<div class="ffcGrid">
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Assisted Sales</div>
-									<div class="ffcgDesc">With distributed management efficient assistant for your sales like auto prompts for potential upselling and cross-selling. Keep tracking of orders and do preload easily and also special item’s promotions easily.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Product Promotion</div>
-									<div class="ffcgDesc">Clear knowledge about what you have like a comprehensive digital catalog of all offerings and products with all details like rates, photos, videos, descriptions, and offers, etc.,</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Invoicing</div>
-									<div class="ffcgDesc">Reach your customer’s heart with a proper invoice. Digital form with preset configurable fields which will be filled at the time of sales.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<!-- <div class="ffcgItem">
-									<div class="ffcgTitle">Exchange & Return Management</div>
-									<div class="ffcgDesc">Feedback through surveys and other market Intelligence activities Store Walk, Competation price Check,..</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div> -->
-							</div>
-						</div>
-						<div class="payment">
-							<div class="ffcGrid">
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Credit Control</div>
-									<div class="ffcgDesc">Either it is an identification of previous defaulters or supervisor’s approval of on credits, you can track and hold the communication with our product.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Payment Collection</div>
-									<div class="ffcgDesc">Cover all your payment activities like invoices, receipts, and payment information, etc., manage a better payment collection system with simpler steps from simplr.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Replenish Machines</div>
-									<div class="ffcgDesc">Know your activities and progress your business, with vending machine management, create a report of replenshing machines, record meter readings and cash collection.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<!-- <div class="ffcgItem">
-									<div class="ffcgTitle">Record Meter Reading Collect Cash</div>
-									<div class="ffcgDesc">Feedback through surveys and other market Intelligence activities Store Walk, Competation price Check,..</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div> -->
-							</div>
-						</div>
-						<div class="performance">
-							<div class="ffcGrid">
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Tracking & Planning</div>
-									<div class="ffcgDesc">Report that helps you keep tracking essentials like sales person’s visits, time spent and target vs actual sales. Near real-time data and analytics, build up your strategies on achieving each target.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Potential for Increased Profit & Revenue</div>
-									<div class="ffcgDesc">Benefits of having reduced returns, optimized inventory management, effective and clear cut promotions, and credit management.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Exception Management</div>
-									<div class="ffcgDesc"> Divide and manage to have the best control over optimal sales routes, segmenting customers into sub territories and also keeping track of planned and actual routes.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<!-- <div class="ffcgItem">
-									<div class="ffcgTitle">Territory Management</div>
-									<div class="ffcgDesc">Feedback through surveys and other market Intelligence activities Store Walk, Competation price Check,..</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div> -->
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Workflow and Task Management</div>
-									<div class="ffcgDesc">Clear-up the backlogs by monitoring the sequence of functions that has to be completed and to manage configurable workflow components.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-							</div>
-						</div>
-						<div class="analytics">
-							<div class="ffcGrid">
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Dashboard</div>
-									<div class="ffcgDesc">Bird’s eye view of every actions and performance of territories and salespersons.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-								<div class="ffcgItem">
-									<div class="ffcgTitle">Product and Promotion Planning</div>
-									<div class="ffcgDesc">Provide complex offers in terms of discounts and FOC and also on special items to be promoted.</div>
-									<div class="ffcgImg"><img src="assets/images/tab-icons/market-intelligence.svg"/></div>
-								</div>
-							</div>
-						</div>				
+					<div class="flex1">
+
 					</div>
 				</div>
 			</div>
 		</section>
+		
 
 
 		<!-- <section class="frmBtm" id="features">

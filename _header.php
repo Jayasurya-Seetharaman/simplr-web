@@ -86,22 +86,28 @@
 				</div>
 			</div>
 		</div>
+	</header>
 
-		<div class="pricingHeader">
-			<div class="container1180 pagePad">
-				<div class="flexResponsive768 flexJustifyBetween">
-					<div class=""></div>
-					<div class="">
-						<div class="priceDD active">
-							<div class="priceDDHead">See Pricing</div>
-							<div class="priceDDCont"></div>
+	
+	<div class="pricingHeader">
+		<div class="container1180 pagePad">
+			<div class="flexResponsive768 flexJustifyBetween">
+				<div class="white width500">
+					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the 
+				</div>
+				<div class="">
+					<div class="priceDD">
+						<div class="priceDDHead">See Pricing</div>
+						<div class="priceDDCont">
+							<a href="" class="pdItem">Price 1</a>
+							<a href="" class="pdItem">Price 2</a>
+							<a href="" class="pdItem">Price 3</a>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>	
-
-	</header>
+		</div>
+	</div>	
 	
 	<div class="mobLeftAside">
 		<div class="flex flexJustifyBetween flexDirectionCol">

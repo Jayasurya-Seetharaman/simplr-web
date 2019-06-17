@@ -5,6 +5,11 @@ $(window).load(function() {
     // $('body').css('overflow','auto');
 });
 
+$(".priceDDHead").click(function () {
+    $(this).siblings('.priceDDCont').toggle('slide', { direction: 'up' }, 300);
+    $('.priceDD').toggleClass('active');    
+});
+
 $('.bTxtBox').slick({
     dots: false,
     arrows: false,

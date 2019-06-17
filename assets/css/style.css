@@ -654,8 +654,18 @@ header .topLogo img{display: block;max-height: 41px;}
 header .rSide { flex: 5; }
 /*HEADER*/
 
+/*PRICING HEADER*/
+.pricingHeader{background-color: #a40c5c;padding: 15px 0;margin-top: 71px;position: relative;z-index: 9;}
+.pricingHeader .priceDD{position: relative;}
+.pricingHeader .priceDD .priceDDHead{box-shadow: 0 8px 24px rgba(0, 0, 0, 0.16); border-radius: 4px; border: 2px solid #ffffff; background-color: #a40c5c; padding: 12px 30px 12px 12px; color: #FFF;cursor: pointer;}
+.pricingHeader .priceDD .priceDDCont{display: none;position: absolute; background: #FFF; min-width: 125px;}
+.pricingHeader .priceDD .priceDDCont .pdItem{padding: 10px; display: block; color: #717589; font-size: 14px; font-weight: 600; -webkit-transition: .3s; transition: .3s;}
+/*PRICING HEADER*/
+
 /*BANNER*/
-.banner{position: relative;/*background: #793f98;*/padding: 60px 0;padding-top: 120px;    height: calc(100vh - 86px); display: table; width: 100%; background: url('https://fluentthemes.com/wp/appeasy/app-demo-three/wp-content/uploads/sites/4/2018/12/squircle-header-min.png'); background-size: 100%; background-position: right top; background-repeat: no-repeat;}
+.banner{position: relative;background-image: linear-gradient(76deg, #da4453 0%, #89216b 100%);padding: 60px 0;padding-top: 120px; 
+    /* height: calc(100vh - 86px); display: table;  */
+    width: 100%; }
 .banner .bTxt{line-height: 34px; font-size: 20px; color: #39434f;}
 .banner .bTxtBox{position: absolute;top: calc(100% - 75%);padding: 40px;max-width: 700px;background-image: linear-gradient(to right, #ff416c , #c31432 );width: 100%;}
 .banner .bTxtBox .slick-slide.slick-current.slick-active .btbItem{opacity: 1;}
@@ -666,10 +676,10 @@ header .rSide { flex: 5; }
 .banner .bSlider .bImg img{padding: 0;}
 .sgdLogo{margin: 60px 30px;}
 .bannerImg{text-align: center;}
-.banner .bSocial{position: absolute;right: -30px;top: 30%;}
-.banner .bSocial a{display: block;margin-bottom: 20px;}
-.banner .bSocial a:last-child{margin-bottom: 0;}
+/* .banner .bSocial{position: absolute;right: -30px;top: 30%;} */
+.banner .bSocial a{display: inline-block; margin-right: 20px;}
 /*BANNER*/
+
 
 /*BUTTON*/
 .whiteSBtn{padding: 12px 35px;font-size: 13px;line-height: 13px;text-transform: uppercase;font-weight: 600;color: #c31432;text-align: center;border-radius: unset;background-color:#FFF;display: inline-block;letter-spacing: normal;font-family: 'Rubik', sans-serif;cursor: pointer;position: relative; transition: all 0.4s cubic-bezier(0.42, 0, 0.58, 1);}
